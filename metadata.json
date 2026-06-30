@@ -1,0 +1,6 @@
+{
+  "name": "RecruitIQ AI",
+  "description": "Premium AI-powered recruitment platform featuring resume analysis, skill gap tracking, interactive mock interviews, and recruiter insights.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
